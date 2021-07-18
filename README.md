@@ -1,7 +1,7 @@
 # total-notes-download
 This repo is download the latest version of the Total Notes' app.
 
-### The idea is to have all what you may need to take a note in one app with less storage need.
+##### The idea is to have all what you may need to take a note in one app with less storage need.
 
 ## Features
 Notes app current version is with the following functions,
